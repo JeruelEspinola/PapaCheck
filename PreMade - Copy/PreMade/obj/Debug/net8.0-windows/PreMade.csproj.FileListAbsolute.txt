@@ -1,0 +1,40 @@
+C:\Users\admin\source\repos\PreMade\PreMade\bin\Debug\net8.0-windows\PreMade.exe
+C:\Users\admin\source\repos\PreMade\PreMade\bin\Debug\net8.0-windows\PreMade.deps.json
+C:\Users\admin\source\repos\PreMade\PreMade\bin\Debug\net8.0-windows\PreMade.runtimeconfig.json
+C:\Users\admin\source\repos\PreMade\PreMade\bin\Debug\net8.0-windows\PreMade.dll
+C:\Users\admin\source\repos\PreMade\PreMade\bin\Debug\net8.0-windows\PreMade.pdb
+C:\Users\admin\source\repos\PreMade\PreMade\obj\Debug\net8.0-windows\PreMade.Form1.resources
+C:\Users\admin\source\repos\PreMade\PreMade\obj\Debug\net8.0-windows\PreMade.Form2.resources
+C:\Users\admin\source\repos\PreMade\PreMade\obj\Debug\net8.0-windows\PreMade.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\PreMade\PreMade\obj\Debug\net8.0-windows\PreMade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\PreMade\PreMade\obj\Debug\net8.0-windows\PreMade.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\PreMade\PreMade\obj\Debug\net8.0-windows\PreMade.AssemblyInfo.cs
+C:\Users\admin\source\repos\PreMade\PreMade\obj\Debug\net8.0-windows\PreMade.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\PreMade\PreMade\obj\Debug\net8.0-windows\PreMade.dll
+C:\Users\admin\source\repos\PreMade\PreMade\obj\Debug\net8.0-windows\refint\PreMade.dll
+C:\Users\admin\source\repos\PreMade\PreMade\obj\Debug\net8.0-windows\PreMade.pdb
+C:\Users\admin\source\repos\PreMade\PreMade\obj\Debug\net8.0-windows\PreMade.genruntimeconfig.cache
+C:\Users\admin\source\repos\PreMade\PreMade\obj\Debug\net8.0-windows\PreMade.Form3.resources
+C:\Users\admin\source\repos\PreMade\PreMade\obj\Debug\net8.0-windows\PreMade.Properties.Resources.resources
+C:\Users\admin\source\repos\PreMade\PreMade\obj\Debug\net8.0-windows\PreMade.Form4.resources
+C:\Users\admin\source\repos\PreMade\PreMade\obj\Debug\net8.0-windows\PreMade.Form5.resources
+C:\Users\admin\Desktop\PreMade - Copy\PreMade\bin\Debug\net8.0-windows\PreMade.exe
+C:\Users\admin\Desktop\PreMade - Copy\PreMade\bin\Debug\net8.0-windows\PreMade.deps.json
+C:\Users\admin\Desktop\PreMade - Copy\PreMade\bin\Debug\net8.0-windows\PreMade.runtimeconfig.json
+C:\Users\admin\Desktop\PreMade - Copy\PreMade\bin\Debug\net8.0-windows\PreMade.dll
+C:\Users\admin\Desktop\PreMade - Copy\PreMade\bin\Debug\net8.0-windows\PreMade.pdb
+C:\Users\admin\Desktop\PreMade - Copy\PreMade\obj\Debug\net8.0-windows\PreMade.Form1.resources
+C:\Users\admin\Desktop\PreMade - Copy\PreMade\obj\Debug\net8.0-windows\PreMade.Form2.resources
+C:\Users\admin\Desktop\PreMade - Copy\PreMade\obj\Debug\net8.0-windows\PreMade.Form3.resources
+C:\Users\admin\Desktop\PreMade - Copy\PreMade\obj\Debug\net8.0-windows\PreMade.Form4.resources
+C:\Users\admin\Desktop\PreMade - Copy\PreMade\obj\Debug\net8.0-windows\PreMade.Form5.resources
+C:\Users\admin\Desktop\PreMade - Copy\PreMade\obj\Debug\net8.0-windows\PreMade.Properties.Resources.resources
+C:\Users\admin\Desktop\PreMade - Copy\PreMade\obj\Debug\net8.0-windows\PreMade.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\PreMade - Copy\PreMade\obj\Debug\net8.0-windows\PreMade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\PreMade - Copy\PreMade\obj\Debug\net8.0-windows\PreMade.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\PreMade - Copy\PreMade\obj\Debug\net8.0-windows\PreMade.AssemblyInfo.cs
+C:\Users\admin\Desktop\PreMade - Copy\PreMade\obj\Debug\net8.0-windows\PreMade.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\PreMade - Copy\PreMade\obj\Debug\net8.0-windows\PreMade.dll
+C:\Users\admin\Desktop\PreMade - Copy\PreMade\obj\Debug\net8.0-windows\refint\PreMade.dll
+C:\Users\admin\Desktop\PreMade - Copy\PreMade\obj\Debug\net8.0-windows\PreMade.pdb
+C:\Users\admin\Desktop\PreMade - Copy\PreMade\obj\Debug\net8.0-windows\PreMade.genruntimeconfig.cache
